@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Emma's Studying Tips and Must-haves
 
-You can use the [editor on GitHub](https://github.com/maccssxd/maccssxd.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here you can find helpful suggestions to make your studying more productive
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
